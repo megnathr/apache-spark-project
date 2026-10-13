@@ -1,0 +1,5 @@
+Faker==40.23.0
+numpy==2.5.0
+oracledb==4.0.1
+pyspark==4.2.0
+pyspark-stubs==3.0.0.post3
